@@ -7,6 +7,15 @@ This repository contains the implementation of techniques designed to protect di
 1. **Edge-Based Protection**  
    Patterns from an auxiliary image are blended into the edges of the original artwork, adding a layer of complexity that confounds AI classifiers.
 
+**Example:**  
+Original Image:  
+![Original Artwork](original_artwork.jpg)  
+
+Edge Protection Applied:  
+![Edge Protection Example](edge_protection_example.jpg)  
+
+---
+   
 2. **Pattern Infusion for Misclassification**  
    Adversarial patterns are infused into the original image, achieving a 95% success rate in causing misclassifications. This ensures effective artwork protection.
 
